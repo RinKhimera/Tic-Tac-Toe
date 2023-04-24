@@ -1,7 +1,6 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
 import "./index.css"
-let x
 
 class Square extends React.Component {
   constructor(props) {
